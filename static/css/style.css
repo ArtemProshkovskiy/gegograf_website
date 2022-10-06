@@ -2836,17 +2836,15 @@ textarea {
         width: 233px;
         text-align: right;
         margin-left: 75px;
+
+        margin-bottom: 0;
+        font-size: 14px;
+        line-height: 20px;
     }
 
     .photo_phone {
         position: relative;
         top: -32px;
-    }
-
-    .about_irina1 {
-        margin-bottom: 0;
-        font-size: 14px;
-        line-height: 20px;
     }
 
     .about_irina2 {
