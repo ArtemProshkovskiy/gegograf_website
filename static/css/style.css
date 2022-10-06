@@ -2693,9 +2693,7 @@ textarea {
         top: 160px;
         z-index: 0;
     }
-    .about_irina1 {
-        margin-left: 71px;
-    }
+
 
 
     .teach_img {
@@ -2837,6 +2835,7 @@ textarea {
     .about_irina1 {
         width: 233px;
         text-align: right;
+        margin-left: 75px;
     }
 
     .photo_phone {
