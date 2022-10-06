@@ -1284,6 +1284,7 @@ body {
 
     color: #000000;
     cursor: pointer;
+    width: 100%;
 }
 
 .question_item {
@@ -1363,7 +1364,6 @@ body {
 
 .button_question {
     border-bottom: 1px solid #E06D24;
-    width: 0px;
     transform: translate(10px, 0px);
 }
 
@@ -2114,7 +2114,7 @@ textarea {
 
     /*question*/
     .button_question {
-        width: 0px;
+
     }
 }
 
@@ -2543,7 +2543,6 @@ textarea {
 
     .button_question {
         border-bottom: 1px solid #E06D24;
-        width: 0px;
         transform: translate(10px, 0px);
     }
 
