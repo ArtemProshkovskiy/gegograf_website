@@ -3078,6 +3078,15 @@ textarea {
         top: 0;
         display: none;
     }
+    .textinfo_privatlesson.first {
+        height: 207px;
+    }
+    .textinfo_privatlesson {
+        height: 207px;
+    }
+    .privat_button_price_img.center {
+        margin-left: 0;
+    }
 
     .price_content_top {
         transform: translate(0%, 0%);
@@ -3109,7 +3118,7 @@ textarea {
     }
 
     .privat_button_price_img {
-        margin-left: 16px;
+        margin-left: 8px;
         padding: 5px 15px;
         border-radius: 5px;
         font-size: 12px;
