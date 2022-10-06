@@ -2338,7 +2338,6 @@ textarea {
     .about_irina1 {
         font-size: 18px;
         margin-bottom: 12px;
-        margin-left: 70px;
     }
 
     .about_irina2 {
@@ -2693,6 +2692,9 @@ textarea {
         right: 50%;
         top: 160px;
         z-index: 0;
+    }
+    .about_irina1 {
+        margin-left: 71px;
     }
 
 
