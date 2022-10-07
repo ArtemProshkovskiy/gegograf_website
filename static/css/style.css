@@ -2464,8 +2464,7 @@ textarea {
     }
 
     .right_row {
-        display: flex;
-        justify-content: right;
+        align-self: flex-end;
     }
 
     .lessons_right.first {
@@ -3089,7 +3088,6 @@ textarea {
 
     .textinfo_price {
          width: 267px;
-        height: 172px;
         padding: 9px 5px 14px 26px;
     }
 
