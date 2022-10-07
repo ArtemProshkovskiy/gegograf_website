@@ -2822,14 +2822,10 @@ textarea {
         z-index: 0;
     }
 
-    .about_right {
-        display: flex;
-        justify-content: right;
 
-    }
 
     .about_me {
-        text-align: right;
+        margin-left: 211px;
     }
 
     .about_irina1 {
@@ -3079,10 +3075,7 @@ textarea {
         display: none;
     }
     .textinfo_privatlesson.first {
-        height: 207px;
-    }
-    .textinfo_privatlesson {
-        height: 207px;
+
     }
     .privat_button_price_img.center {
         margin-left: 0;
@@ -3346,13 +3339,19 @@ textarea {
     .question {
         margin: 30px 0px;
     }
-
+    .question_item.active .text_question{
+        font-size: 14px;
+        line-height: 17px;
+    }
     .text_question {
         font-weight: 400;
         font-size: 14px;
         line-height: 20px;
         margin-left: 37px;
-        width: 80%;
+        width: 98%;
+    }
+    .dropdown-input {
+        padding: 0px 24px;
     }
 
     /*form + footer*/
