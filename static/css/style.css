@@ -300,6 +300,7 @@ body {
     color: #FFFFFF;
 
     opacity: 0.7;
+    margin-left: 8px;
 }
 
 .first_lesson span {
@@ -2465,7 +2466,11 @@ textarea {
 
     .right_row {
         align-self: flex-end;
+        margin-left: 47px;
     }
+    .dropdown-input__arrow img {
+    margin-left: 13px;
+}
 
     .lessons_right.first {
         margin-right: 0px;
