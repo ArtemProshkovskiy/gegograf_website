@@ -300,7 +300,6 @@ body {
     color: #FFFFFF;
 
     opacity: 0.7;
-    margin-left: 8px;
 }
 
 .first_lesson span {
@@ -2465,12 +2464,9 @@ textarea {
     }
 
     .right_row {
-        align-self: flex-end;
-        margin-left: 47px;
+        display: flex;
+        justify-content: right;
     }
-    .dropdown-input__arrow img {
-    margin-left: 13px;
-}
 
     .lessons_right.first {
         margin-right: 0px;
@@ -3041,11 +3037,11 @@ textarea {
     }
 
     .lessons_right.last {
-        margin-right: 51px;
+        margin-right: 43px;
     }
 
     .lesson_left.last {
-        margin-right: 21px;
+        margin-right: 10px;
     }
 
     .title_lesson {
@@ -3093,6 +3089,7 @@ textarea {
 
     .textinfo_price {
          width: 267px;
+        height: 172px;
         padding: 9px 5px 14px 26px;
     }
 
